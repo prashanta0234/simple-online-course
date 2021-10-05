@@ -1,0 +1,9 @@
+.about{
+    text-align: center;
+    background-color: gainsboro;
+    padding-bottom: 100px;
+}
+.about p{
+    margin-right: 11rem;
+    margin-left: 11rem;
+}

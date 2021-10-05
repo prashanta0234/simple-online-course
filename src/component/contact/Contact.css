@@ -1,0 +1,31 @@
+.contact{
+    background-color: rgb(28, 29, 29);
+
+    padding-bottom: 2rem;
+    color: white;
+
+}
+.contact-form{
+    margin: 3rem;
+
+}
+.contact-header{
+    text-align: center;
+    padding-top: 5rem;
+}
+.textArea{
+    resize: none;
+}
+.contact-form button{
+    padding: 10px;
+    width: 150px;
+    background-color: transparent;
+    border-radius: 10px;
+    border: 1px solid #B8DDE3;
+    color: white;
+}
+.contact-form button:hover{
+    background-color: #B8DDE3;
+    border: none;
+    color: black;
+}

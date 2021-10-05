@@ -1,0 +1,10 @@
+.nav-link{
+    text-decoration: none;
+    margin-left: 20px;
+    font-weight: 700;
+}
+.selected{
+    background-color: black;
+    color: blue;
+    border-radius: 5px;
+}
